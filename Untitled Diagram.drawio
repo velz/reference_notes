@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-29T11:13:20.069Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DiTJXs6f_UY-dsnzSdCs" version="13.7.6" type="github">
+<mxfile modified="2020-09-29T11:15:01.732Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hWOoA_K6ftpB_0DN6Pa8" version="13.7.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1220" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
         <mxCell id="iRLQAyBYqZo1qDmHJtDu-38" value="" style="outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;fillColor=#000000;gradientColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="291" y="280" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="fU0T-EmlP-vt1wKVpfE7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="149" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
