@@ -1,0 +1,117 @@
+<mxfile modified="2020-10-07T12:08:19.540Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Lskn72tVC6njOCwBYSgT" version="13.7.6" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="1220" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;exitX=1.013;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fU0T-EmlP-vt1wKVpfE7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="168" y="179" as="sourcePoint" />
+            <mxPoint x="240" y="179" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="237" />
+              <mxPoint x="210" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-6" value="UDI Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-10" value="Wolfe Persistence job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="129" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-19" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#232F3E;strokeWidth=2;" parent="1" source="iRLQAyBYqZo1qDmHJtDu-38" target="fU0T-EmlP-vt1wKVpfE7-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-21" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#232F3E;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UEzPUAAOIrF-is8g5C7q-77" target="iRLQAyBYqZo1qDmHJtDu-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="178.5" as="sourcePoint" />
+            <mxPoint x="417" y="178.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-22" value="Crunch Pipeline" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=0;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=3;fontColor=#232F3E;fillColor=#FFFFFF;gradientColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-23" value="Vertica" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=0;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;gradientColor=#FFFFFF;fontColor=#232F3E;" parent="1" vertex="1">
+          <mxGeometry x="780" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-24" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#232F3E;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iRLQAyBYqZo1qDmHJtDu-22" target="iRLQAyBYqZo1qDmHJtDu-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="179" />
+              <mxPoint x="690" y="228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-25" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#232F3E;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="fU0T-EmlP-vt1wKVpfE7-11" target="iRLQAyBYqZo1qDmHJtDu-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="330" />
+              <mxPoint x="690" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-27" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;Consuming data from Kafka&lt;/li&gt;&lt;li&gt;Consumption of Model Mapping service&lt;/li&gt;&lt;li&gt;Stateful transformation&lt;/li&gt;&lt;li&gt;Window concept and Fault Tolerance&lt;/li&gt;&lt;li&gt;Persisting data to Vertica&lt;/li&gt;&lt;li&gt;Persisting data to Snowflake&lt;/li&gt;&lt;li&gt;Deployment: Kinesis Data Analytics&lt;/li&gt;&lt;li&gt;CodeDeploy&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=0;labelBackgroundColor=#ffffff;fontColor=#232F3E;" parent="1" vertex="1">
+          <mxGeometry x="610" y="344" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-29" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;We can use this batch processing to create joins between tables&lt;br&gt;&lt;/li&gt;&lt;li&gt;Mod Deploy&amp;nbsp;&lt;/li&gt;&lt;li&gt;Transformation launcher&lt;/li&gt;&lt;li&gt;Incremental load logic&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=0;labelBackgroundColor=#ffffff;fontColor=#232F3E;" parent="1" vertex="1">
+          <mxGeometry x="490" y="50" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-31" value="S3 Bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=0;labelBackgroundColor=#ffffff;fontColor=#232F3E;" parent="1" vertex="1">
+          <mxGeometry x="395" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-32" value="Batch Processing - Only Full Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=0;labelBackgroundColor=#ffffff;fontColor=#232F3E;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-33" value="Stream Processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=0;labelBackgroundColor=#ffffff;fontColor=#232F3E;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-37" value="Kafka Queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="339" y="384" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="90" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iRLQAyBYqZo1qDmHJtDu-38" value="" style="outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;fillColor=#000000;gradientColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="350" y="290" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-77" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;labelBackgroundColor=#ffffff;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="400" y="140" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;" parent="1" target="iRLQAyBYqZo1qDmHJtDu-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="260" as="sourcePoint" />
+            <mxPoint x="350" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="260" />
+              <mxPoint x="210" y="260" />
+              <mxPoint x="210" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;fillColor=#000000;gradientColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="242" y="140" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-8" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#232F3E;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fU0T-EmlP-vt1wKVpfE7-7" target="UEzPUAAOIrF-is8g5C7q-77" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="180" as="sourcePoint" />
+            <mxPoint x="380" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-10" value="Amazon KDA- Flink Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="374" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fU0T-EmlP-vt1wKVpfE7-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis_analytics;gradientColor=none;strokeWidth=2;fillColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="500" y="284.5" width="92.5" height="89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
